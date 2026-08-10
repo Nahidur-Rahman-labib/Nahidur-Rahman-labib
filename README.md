@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I’m Nahidur Rahman Labib 👋
 
-<!--
-**Nahidur-Rahman-labib/Nahidur-Rahman-labib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Backend / Full-Stack Developer** from Bangladesh
 
-Here are some ideas to get you started:
+I enjoy building enterprise web applications using **Java, Spring Boot, Angular, and Oracle Database**. My current focus is backend engineering, REST APIs, database-driven systems, and clean software architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* 🎓 **BSc (Hons) Computer Science**, Brunel University London (UK)
+* 💼 Software Developer at **LEADS Corporation Limited**
+* ☕ Backend-focused developer with full-stack experience
+* 🇯🇵 Preparing for **MEXT Japan Master’s** and software engineering opportunities in Japan
+* 📚 Currently learning **Japanese** and strengthening data structures & algorithms
+
+---
+
+## Tech Stack
+
+**Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs
+**Frontend:** Angular, TypeScript, Angular Material, Reactive Forms
+**Database:** Oracle Database, PL/SQL, MySQL
+**Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code
+
+---
+
+## Featured Projects
+
+### Enterprise Client Registration System
+
+Full-stack enterprise application built with **Spring Boot + Angular + Oracle Database** featuring client onboarding, address management, account management, REST APIs, validation, testing, and layered architecture.
+
+### Inventory Management System
+
+Java-based inventory application with CRUD operations, stock management, and reporting features.
+
+### Java DSA Practice
+
+Collection of LeetCode and data-structure solutions with explanations and clean Java implementations.
+
+---
+
+## GitHub Stats
+
+* Active Java and Angular projects
+* Consistent coding and project development
+* Experience with unit and integration testing
+
+---
+
+## Connect With Me
+
+* 💼 LinkedIn: url = www.linkedin.com/in/nahidur-rahman-labib-47a109229
