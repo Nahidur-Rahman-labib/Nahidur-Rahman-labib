@@ -19,8 +19,11 @@ I enjoy building enterprise web applications using **Java, Spring Boot, Angular,
 ## Tech Stack
 
 **Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs
+
 **Frontend:** Angular, TypeScript, Angular Material, Reactive Forms
+
 **Database:** Oracle Database, PL/SQL, MySQL
+
 **Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code
 
 ---
