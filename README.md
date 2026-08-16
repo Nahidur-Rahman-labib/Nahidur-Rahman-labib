@@ -9,10 +9,9 @@ I enjoy building enterprise web applications using **Java, Spring Boot, Angular,
 ## About Me
 
 * 🎓 **BSc (Hons) Computer Science**, Brunel University London (UK)
-* 💼 Software Developer at **LEADS Corporation Limited**
+* 💼 Junior Software Developer at **LEADS Corporation Limited**
 * ☕ Backend-focused developer with full-stack experience
-* 🇯🇵 Preparing for **MEXT Japan Master’s** and software engineering opportunities in Japan
-* 📚 Currently learning **Japanese** and strengthening data structures & algorithms
+* 📚 Currently strengthening data structures & algorithms 
 
 ---
 
